@@ -1,0 +1,5 @@
+Navigation panel consist of:
+- odometr
+- speedoments
+- tank capacity
+- gears indicator
