@@ -2,3 +2,5 @@ Front Left Wheel: 1
 Front Right Wheel: 2
 Rear Left Wheel:3
 Rear Right Wheel:4
+==================
+Spare wheel
